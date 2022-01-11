@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hi there 👋
+### Here's a snake gif
+![Snake gif](https://github.com/Prajwal177/Prajwal177/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 **Prajwal177/Prajwal177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
