@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal177)](https://github.com/anuraghazra/github-readme-stats)
+🌱 I’m currently learning
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal177&show_icons=true&theme=radical)
 
 ![Snake gif](https://github.com/Prajwal177/Prajwal177/blob/main/output/github-contribution-grid-snake.gif)
