@@ -1,5 +1,7 @@
 ## Hi there 👋
-### Here's a snake gif
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal177)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Snake gif](https://github.com/Prajwal177/Prajwal177/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 **Prajwal177/Prajwal177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
