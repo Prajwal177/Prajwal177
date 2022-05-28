@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning
+🌱 Learnin' n Grindin'
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal177&show_icons=true&theme=radical)
 
